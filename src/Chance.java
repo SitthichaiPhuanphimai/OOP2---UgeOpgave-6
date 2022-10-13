@@ -17,5 +17,7 @@ public class Chance extends Field {
 
         return "" +Board.getChanceCard();
     }
+    
+    // Skal returnere chancekortet når spilleren taster "j" for at trække et kort fra bunken
 
 }
